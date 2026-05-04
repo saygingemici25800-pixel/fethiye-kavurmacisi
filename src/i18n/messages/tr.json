@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "siteName": "Fethiye Kavurmacısı",
+    "tagline": "Fethiye'nin en eski kavurmacısı",
+    "defaultTitle": "Fethiye Kavurmacısı | Fethiye'nin En İyi Kuzu Kavurması",
+    "defaultDescription": "30 yıldır odun ateşinde pişen gerçek kuzu kavurma. Fethiye'de Mehmet Usta'nın mutfağından."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "mehmetUsta": "Mehmet Usta",
+    "gallery": "Galeri",
+    "reviews": "Yorumlar",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "menu": "Menü"
+  },
+  "header": {
+    "title": "Fethiye Kavurmacısı"
+  },
+  "common": {
+    "discover": "Keşfet",
+    "readMore": "Devamını Oku",
+    "viewAll": "Tümünü Gör",
+    "getDirections": "Yol Tarifi Al",
+    "callNow": "Hemen Ara",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "tripadvisor": "TripAdvisor",
+    "reserve": "Bize Ulaşın",
+    "backToBlog": "Blog'a Dön",
+    "minRead": "dk okuma",
+    "follow": "Bizi Takip Edin",
+    "close": "Kapat",
+    "prev": "Önceki",
+    "next": "Sonraki"
+  },
+  "hero": {
+    "subtitle": {
+      "before": "Odun ateşinde, bakır tavalarda, gerçek",
+      "highlight": "kuzu kavurma",
+      "after": ""
+    },
+    "discover": "Beni Keşfet",
+    "unmute": "Sesi aç",
+    "mute": "Sesi kapat",
+    "googleReviews": "342 Google Yorumu"
+  },
+  "stats": {
+    "title": "Rakamlarla Biz",
+    "years": "Yıllık Tecrübe",
+    "guests": "Günlük Mutlu Misafir",
+    "rating": "Google Puanı",
+    "woodFire": "Odun Ateşi"
+  },
+  "menu": {
+    "title": "Sofranıza Gelecek Lezzetler",
+    "subtitle": "Mehmet Usta'nın imzasını taşıyan en sevilen tabaklarımız",
+    "detail": "Detay",
+    "viewAll": "Tüm Menüyü Gör",
+    "mainsTitle": "Ana Yemekler",
+    "soupsTitle": "Çorbalar",
+    "items": {
+      "1": {
+        "name": "Kuzu Kavurma",
+        "desc": "6 saat odun ateşinde, bakır tavada pişirilmiş özel kuzu kavurma"
+      },
+      "2": {
+        "name": "Tandır",
+        "desc": "Geleneksel toprak tandırda, kendi yağında"
+      },
+      "3": {
+        "name": "Kuzu Şiş",
+        "desc": "Meşe kömüründe, baharatlı marinasyonlu"
+      },
+      "4": {
+        "name": "Mehmet Usta Özel",
+        "desc": "Ustanın günlük sürpriz tabağı"
+      }
+    }
+  },
+  "explore": {
+    "title": "Daha Fazlasını Keşfet",
+    "subtitle": "Fethiye Kavurmacısı'nın hikayesine yolculuk yapın",
+    "cards": {
+      "chef": {
+        "title": "Mehmet Usta",
+        "desc": "30 yıldır ocağın başında, lezzetin arkasındaki usta"
+      },
+      "gallery": {
+        "title": "Galeri",
+        "desc": "Mutfağımızdan, tabaklarımızdan ve misafirlerimizden kareler"
+      },
+      "reviews": {
+        "title": "Yorumlar & SSS",
+        "desc": "Misafirlerimizin dedikleri ve sık sorulan sorular"
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "Fethiye lezzet rehberi ve kavurma kültürü yazıları"
+      },
+      "contact": {
+        "title": "İletişim",
+        "desc": "Bize nasıl ulaşırsınız ve rezervasyon bilgileri"
+      }
+    }
+  },
+  "location": {
+    "title": "Sofra Hazır, Sizi Bekliyoruz",
+    "subtitle": "Fethiye'nin merkezinde, tam kalbinde",
+    "address": "Adres",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp",
+    "hours": "Çalışma Saatleri",
+    "hoursValue": "Pazartesi - Cumartesi: 10:00 - 02:00 · Pazar: Kapalı"
+  },
+  "footer": {
+    "tagline": "Fethiye'nin en eski kavurmacısı. 30 yıldır odun ateşinde aynı lezzet.",
+    "quickLinks": "Hızlı Linkler",
+    "contactTitle": "İletişim",
+    "hoursTitle": "Çalışma Saatleri",
+    "rights": "Tüm hakları saklıdır.",
+    "madeWith": "Fethiye'de ateşle hazırlandı"
+  },
+  "mehmetUsta": {
+    "heroEyebrow": "OCAĞIN USTASI",
+    "heroTitle": "Mehmet Usta",
+    "heroSubtitle": "30 yıllık hikaye, tek bir ateş",
+    "storyTitle": "Ateşin peşinden 30 yıl",
+    "story": [
+      "Mehmet Usta, 1994 yılında Fethiye'nin dar sokaklarında küçük bir kasap dükkanında başladı bu mesleğe. Kuzu eti seçmeyi babasından öğrendi; odunun dilini ise kendi kendine, yıllar içinde.",
+      "Fethiye'nin o zamanki küçük sokaklarında, meşe odununun kokusu onu hep çekti. İlk tezgâhını kurduğunda sadece üç tabak çıkarıyordu; bugün her gün yüzlerce misafire aynı özeni gösteriyor.",
+      "Bugün, 30 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
+      "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 30 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
+    ],
+    "secretTitle": "Benim Sırrım",
+    "secretSubtitle": "Ustanın 4 altın kuralı",
+    "secrets": {
+      "meat": {
+        "title": "Et Seçimi",
+        "desc": "Sadece yerel, 6-8 aylık kuzu. Her sabah Fethiye mezbahasından özenle seçiyorum."
+      },
+      "oak": {
+        "title": "Meşe Odunu",
+        "desc": "Muğla'nın meşe ormanlarından kesilen odunlar. Ateşin dilini yalnızca meşe bilir."
+      },
+      "patience": {
+        "title": "Sabır",
+        "desc": "Her kavurma en az 6 saat ağır ateşte. Acele eden kavurmaya inanmıyorum."
+      },
+      "copper": {
+        "title": "Bakır Tava",
+        "desc": "Geleneksel el dövme bakır tavalarımızda pişirilip servis edilen kavurma, hem ısıyı eşit dağıtır hem de etin özünü korur. 30 yıldır bu sırrı sürdürüyoruz."
+      }
+    },
+    "galleryTitle": "Ocakta bir gün",
+    "quote": "Kavurma yapmak sabır ister. Acelesi olan başka yerde yesin.",
+    "quoteAuthor": "Mehmet Usta",
+    "cta": "Sofraya Gelin",
+    "ctaDesc": "Mehmet Usta'nın elinden çıkan lezzeti tatmak için bize ulaşın."
+  },
+  "gallery": {
+    "heroTitle": "Galerimiz",
+    "heroSubtitle": "Mutfağımızdan, sofralarımızdan, mutlu misafirlerimizden kareler",
+    "filters": {
+      "all": "Tümü",
+      "food": "Yemekler",
+      "venue": "Mekan"
+    },
+    "empty": "Bu kategoride henüz görsel yok."
+  },
+  "reviews": {
+    "heroTitle": "Misafirlerimiz Anlatıyor",
+    "heroSubtitle": "342 Google değerlendirmesi ve sayıyor",
+    "ratingLabel": "Google Puanı",
+    "reviewsCount": "Google değerlendirmesi temelinde",
+    "distribution": "Puan Dağılımı",
+    "writeReview": "Google'da Yorum Bırak",
+    "filters": {
+      "all": "Tümü",
+      "fiveStar": "5 Yıldız",
+      "foreign": "Yabancı Misafirler",
+      "newest": "En Yeniler"
+    },
+    "showMore": "Devamını oku",
+    "showLess": "Daha az göster",
+    "faqTitle": "Sıkça Sorulan Sorular",
+    "faqSubtitle": "Misafirlerimizin en çok merak ettikleri"
+  },
+  "blog": {
+    "heroTitle": "Fethiye Lezzet Rehberi",
+    "heroSubtitle": "Kavurma kültürü, Fethiye gezi notları ve yeme-içme rehberi",
+    "featured": "Öne Çıkan Yazı",
+    "allPosts": "Tüm Yazılar",
+    "relatedPosts": "Diğer Yazılarımız",
+    "by": "Yazar",
+    "publishedOn": "Yayın",
+    "readingTime": "Okuma süresi",
+    "ctaTitle": "Bu lezzeti tatmak ister misin?",
+    "ctaDesc": "Fethiye'ye yolun düşerse, Mehmet Usta'nın sofrasına uğra. Bize ulaşmanın en kolay yolu WhatsApp veya telefon.",
+    "ctaButton": "Bize Ulaşın"
+  },
+  "contact": {
+    "heroEyebrow": "İLETİŞİM",
+    "heroTitle": "Bize Ulaşın",
+    "heroSubtitle": "Sofranız her zaman hazır",
+    "cards": {
+      "address": {
+        "title": "Adres",
+        "action": "Yol Tarifi Al"
+      },
+      "phone": {
+        "title": "Telefon",
+        "action": "Ara"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "desc": "Hızlı mesajlaşma",
+        "action": "Yaz"
+      },
+      "hours": {
+        "title": "Çalışma Saatleri"
+      }
+    },
+    "noteTitle": "Bilgi",
+    "noteBody": "Bilgi ve sorularınız için WhatsApp'tan yazabilir veya bizi arayabilirsiniz.",
+    "followTitle": "Bizi Takip Edin",
+    "followSubtitle": "Günlük menü, sürprizler ve misafirlerimizin anıları"
+  },
+  "notFound": {
+    "title": "Bu sayfa ateşte kaldı",
+    "subtitle": "Aradığınız sayfa bulunamadı. Ana sayfaya dönüp yeniden başlayın.",
+    "cta": "Ana Sayfaya Dön"
+  }
+}

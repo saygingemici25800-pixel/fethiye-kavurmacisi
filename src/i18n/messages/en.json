@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "siteName": "Fethiye Kavurmacısı",
+    "tagline": "Fethiye's oldest lamb confit house",
+    "defaultTitle": "Fethiye Kavurmacısı | Best Lamb Kavurma in Fethiye",
+    "defaultDescription": "Authentic wood-fire lamb confit, crafted for 30 years by Mehmet Usta in the heart of Fethiye."
+  },
+  "nav": {
+    "home": "Home",
+    "mehmetUsta": "Mehmet Usta",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "blog": "Blog",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "header": {
+    "title": "Fethiye Kavurmacısı"
+  },
+  "common": {
+    "discover": "Discover",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "getDirections": "Get Directions",
+    "callNow": "Call now",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "tripadvisor": "TripAdvisor",
+    "reserve": "Contact Us",
+    "backToBlog": "Back to Blog",
+    "minRead": "min read",
+    "follow": "Follow us",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "hero": {
+    "subtitle": {
+      "before": "",
+      "highlight": "Lamb confit",
+      "after": ". Wood fire. Copper pans. For 30 years."
+    },
+    "discover": "Discover",
+    "unmute": "Unmute",
+    "mute": "Mute",
+    "googleReviews": "342 Google Reviews"
+  },
+  "stats": {
+    "title": "By the numbers",
+    "years": "Years of experience",
+    "guests": "Happy guests daily",
+    "rating": "Google rating",
+    "woodFire": "Wood fire"
+  },
+  "menu": {
+    "title": "What's on the table",
+    "subtitle": "The most-loved plates signed by Mehmet Usta",
+    "detail": "Details",
+    "viewAll": "View full menu",
+    "mainsTitle": "Main Dishes",
+    "soupsTitle": "Soups",
+    "items": {
+      "1": {
+        "name": "Lamb Confit",
+        "desc": "6 hours slow-cooked over wood fire in copper pan, special lamb confit"
+      },
+      "2": {
+        "name": "Tandır",
+        "desc": "Traditional clay-oven lamb, confit in its own fat"
+      },
+      "3": {
+        "name": "Lamb Skewers",
+        "desc": "Over oak charcoal, with a house-spiced marinade"
+      },
+      "4": {
+        "name": "Mehmet Usta Special",
+        "desc": "The chef's daily surprise plate"
+      }
+    }
+  },
+  "explore": {
+    "title": "Discover more",
+    "subtitle": "A journey into Fethiye Kavurmacısı's story",
+    "cards": {
+      "chef": {
+        "title": "Mehmet Usta",
+        "desc": "30 years at the fire — the master behind the flavor"
+      },
+      "gallery": {
+        "title": "Gallery",
+        "desc": "Frames from our kitchen, plates and guests"
+      },
+      "reviews": {
+        "title": "Reviews & FAQ",
+        "desc": "What our guests say, and answers to what you ask most"
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "A Fethiye food guide and notes on kavurma culture"
+      },
+      "contact": {
+        "title": "Contact",
+        "desc": "How to reach us and get in touch"
+      }
+    }
+  },
+  "location": {
+    "title": "The table is set, we're waiting",
+    "subtitle": "Right in the heart of Fethiye",
+    "address": "Address",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "hours": "Opening hours",
+    "hoursValue": "Monday - Saturday: 10:00 - 02:00 · Sunday: Closed"
+  },
+  "footer": {
+    "tagline": "Fethiye's oldest lamb confit house. The same wood fire, for 30 years.",
+    "quickLinks": "Quick links",
+    "contactTitle": "Contact",
+    "hoursTitle": "Opening hours",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with fire in Fethiye"
+  },
+  "mehmetUsta": {
+    "heroEyebrow": "MASTER OF THE FIRE",
+    "heroTitle": "Mehmet Usta",
+    "heroSubtitle": "A 30-year story around a single fire",
+    "storyTitle": "Thirty years chasing the flame",
+    "story": [
+      "Mehmet Usta began this craft in 1994, in a small butcher's shop on a narrow Fethiye street. He learned to pick lamb from his father; the language of wood, he taught himself over the years.",
+      "The smell of oak firewood pulled him in from day one. When he opened his first counter, he plated just three portions a day. Today, the same care goes into hundreds of plates.",
+      "Every morning he still stands at the fire. Every confit plate leaves his hands, and nothing goes to the table until he has tasted it himself.",
+      "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 30 years of patience, passion and hospitality."
+    ],
+    "secretTitle": "My secret",
+    "secretSubtitle": "The chef's four golden rules",
+    "secrets": {
+      "meat": {
+        "title": "Choosing the meat",
+        "desc": "Only local, 6–8 month old lamb. Hand-picked every morning at the Fethiye butcher."
+      },
+      "oak": {
+        "title": "Oak firewood",
+        "desc": "Wood cut from Muğla's oak forests. Only oak understands the language of fire."
+      },
+      "patience": {
+        "title": "Patience",
+        "desc": "At least 6 hours on a slow fire. I don't believe in kavurma that's in a hurry."
+      },
+      "copper": {
+        "title": "Copper Pan",
+        "desc": "Our kavurma is cooked and served in traditional hand-hammered copper pans, which distribute heat evenly and preserve the essence of the meat. We've carried this secret for 30 years."
+      }
+    },
+    "galleryTitle": "A day at the fire",
+    "quote": "Kavurma takes patience. Those in a hurry should eat somewhere else.",
+    "quoteAuthor": "Mehmet Usta",
+    "cta": "Come to the table",
+    "ctaDesc": "Get in touch to taste what Mehmet Usta cooks by hand — WhatsApp or phone works best."
+  },
+  "gallery": {
+    "heroTitle": "Our gallery",
+    "heroSubtitle": "Frames from our kitchen, tables and happy guests",
+    "filters": {
+      "all": "All",
+      "food": "Food",
+      "venue": "Venue"
+    },
+    "empty": "No images in this category yet."
+  },
+  "reviews": {
+    "heroTitle": "Our guests tell the story",
+    "heroSubtitle": "342 Google reviews and counting",
+    "ratingLabel": "Google rating",
+    "reviewsCount": "Based on Google reviews",
+    "distribution": "Rating distribution",
+    "writeReview": "Write a Google review",
+    "filters": {
+      "all": "All",
+      "fiveStar": "5 stars",
+      "foreign": "International guests",
+      "newest": "Newest"
+    },
+    "showMore": "Read more",
+    "showLess": "Show less",
+    "faqTitle": "Frequently asked questions",
+    "faqSubtitle": "What our guests ask the most"
+  },
+  "blog": {
+    "heroTitle": "Fethiye food guide",
+    "heroSubtitle": "Kavurma culture, travel notes and where to eat in Fethiye",
+    "featured": "Featured post",
+    "allPosts": "All posts",
+    "relatedPosts": "More from the blog",
+    "by": "By",
+    "publishedOn": "Published",
+    "readingTime": "Reading time",
+    "ctaTitle": "Want to taste this yourself?",
+    "ctaDesc": "If Fethiye is on your route, drop by Mehmet Usta's table. WhatsApp or call us anytime.",
+    "ctaButton": "Contact us"
+  },
+  "contact": {
+    "heroEyebrow": "CONTACT",
+    "heroTitle": "Get in touch",
+    "heroSubtitle": "Your table is always ready",
+    "cards": {
+      "address": {
+        "title": "Address",
+        "action": "Get directions"
+      },
+      "phone": {
+        "title": "Phone",
+        "action": "Call"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "desc": "Quick messaging",
+        "action": "Message"
+      },
+      "hours": {
+        "title": "Opening hours"
+      }
+    },
+    "noteTitle": "Good to know",
+    "noteBody": "For any questions or information, message us on WhatsApp or give us a call.",
+    "followTitle": "Follow us",
+    "followSubtitle": "Daily specials, surprises and moments from our guests"
+  },
+  "notFound": {
+    "title": "This page burned in the fire",
+    "subtitle": "The page you were looking for could not be found. Let's head back to the homepage.",
+    "cta": "Back to homepage"
+  }
+}
