@@ -17,15 +17,25 @@ export default function HeroVideo() {
 
   useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.muted = isMuted;
-      if (!isMuted) {
-        void videoRef.current.play().catch(() => {});
-      }
+      videoRef.current.muted = true;
+      void videoRef.current.play().catch(() => {});
     }
-  }, [isMuted]);
+  }, []);
 
   const toggleMute = () => {
-    setIsMuted((prev) => !prev);
+    if (videoRef.current) {
+      videoRef.current.muted = !videoRef.current.muted;
+      setIsMuted(videoRef.current.muted);
+      if (!videoRef.current.muted) {
+        videoRef.current.volume = 1;
+        void videoRef.current.play().catch(() => {
+          if (videoRef.current) {
+            videoRef.current.muted = true;
+            setIsMuted(true);
+          }
+        });
+      }
+    }
   };
 
   return (
