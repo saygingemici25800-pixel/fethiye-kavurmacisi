@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Volume2, VolumeX, Instagram, Facebook } from 'lucide-react';
@@ -15,11 +15,17 @@ export default function HeroVideo() {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isMuted, setIsMuted] = useState(true);
 
-  const toggleMute = () => {
+  useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.muted = !isMuted;
-      setIsMuted(!isMuted);
+      videoRef.current.muted = isMuted;
+      if (!isMuted) {
+        void videoRef.current.play().catch(() => {});
+      }
     }
+  }, [isMuted]);
+
+  const toggleMute = () => {
+    setIsMuted((prev) => !prev);
   };
 
   return (
@@ -33,7 +39,7 @@ export default function HeroVideo() {
           ref={videoRef}
           autoPlay
           loop
-          muted
+          muted={isMuted}
           playsInline
           preload="metadata"
           poster="/images/hero-poster.jpg"
