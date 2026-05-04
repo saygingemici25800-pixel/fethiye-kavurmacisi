@@ -81,7 +81,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.2 }}
-        className="absolute left-[calc(50%-60px)] top-1/2 z-20 -translate-x-1/2 -translate-y-1/2 [filter:drop-shadow(0_15px_35px_rgba(0,0,0,0.5))] md:left-[calc(50%-120px)]"
+        className="absolute left-1/2 top-1/2 z-20 -translate-x-1/2 -translate-y-1/2 [filter:drop-shadow(0_15px_35px_rgba(0,0,0,0.5))]"
       >
         <GradientMenu />
       </motion.div>
@@ -91,7 +91,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.2 }}
-        className="pointer-events-none absolute left-0 top-[calc(50%+10px)] z-20 flex -translate-y-1/2 items-center gap-10 pl-20 md:gap-16 md:pl-40"
+        className="pointer-events-none absolute left-0 top-[calc(50%+10px)] z-20 hidden md:flex -translate-y-1/2 items-center gap-10 pl-20 md:gap-16 md:pl-40"
       >
         <DiscoverLabel />
         <ChevronWave />
@@ -102,9 +102,9 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 1.6 }}
-        className="pointer-events-none absolute left-[calc(50%-20px)] top-[68%] z-20 -translate-x-1/2 whitespace-nowrap text-center md:left-[calc(50%-40px)]"
+        className="pointer-events-none absolute left-1/2 top-[68%] z-20 -translate-x-1/2 text-center"
       >
-        <p className="whitespace-nowrap font-heading text-base italic leading-relaxed text-cream/70 md:text-xl">
+        <p className="font-heading text-center px-4 sm:whitespace-nowrap text-base italic leading-relaxed text-cream/70 md:text-xl">
           {t('subtitle.before')}{' '}
           <span className="font-semibold text-flame">
             {t('subtitle.highlight')}
@@ -118,7 +118,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, scale: 0.5 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.6, delay: 1.8 }}
-        className="absolute bottom-24 left-[calc(50%-30px)] z-20 -translate-x-1/2 md:bottom-28 md:left-[calc(50%-45px)]"
+        className="absolute bottom-24 left-1/2 z-20 -translate-x-1/2 md:bottom-28"
       >
         <button
           type="button"
@@ -161,7 +161,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 2.0 }}
-        className="absolute left-[calc(50%-45px)] top-28 z-20 flex -translate-x-1/2 items-center overflow-hidden rounded-full border border-cream/30 bg-cream/10 backdrop-blur-md md:left-[calc(50%-65px)] md:top-32"
+        className="absolute left-1/2 top-28 z-20 flex -translate-x-1/2 items-center overflow-hidden rounded-full border border-cream/30 bg-cream/10 backdrop-blur-md md:top-32"
       >
         <a
           href={SITE_CONFIG.social.instagram}
@@ -189,7 +189,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 2.2 }}
-        className="absolute bottom-8 left-[calc(50%-60px)] z-20 -translate-x-1/2 md:left-[calc(50%-120px)]"
+        className="absolute bottom-8 left-1/2 z-20 -translate-x-1/2"
       >
         <HeroSocialProof />
       </motion.div>
