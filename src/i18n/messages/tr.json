@@ -79,6 +79,29 @@
       }
     }
   },
+  "tableEssentials": {
+    "eyebrow": "SAĞLIĞINIZ İÇİN",
+    "title": "Sofrada Ne Olmalı?",
+    "subtitle": "Sağlığınız için geleneksel tabak",
+    "items": {
+      "ribs": {
+        "name": "Dana Kaburga",
+        "desc": "Odun ateşinde 6 saat pişen dana kaburga"
+      },
+      "rice": {
+        "name": "Basmati Pirinç",
+        "desc": "Tane tane, hafif basmati pirinç pilavı"
+      },
+      "salad": {
+        "name": "Sumaklı Soğan + Domates Söğüş",
+        "desc": "Sumakla terbiyelenmiş soğan, taze domates söğüş"
+      },
+      "bread": {
+        "name": "Lavaş veya Ekmek",
+        "desc": "Sıcak lavaş veya tandır ekmeği"
+      }
+    }
+  },
   "explore": {
     "title": "Daha Fazlasını Keşfet",
     "subtitle": "Fethiye Kavurmacısı'nın hikayesine yolculuk yapın",
@@ -125,13 +148,14 @@
   "mehmetUsta": {
     "heroEyebrow": "OCAĞIN USTASI",
     "heroTitle": "Mehmet Usta",
-    "heroSubtitle": "30 yıllık hikaye, tek bir ateş",
-    "storyTitle": "Ateşin peşinden 30 yıl",
+    "heroSubtitle": "40 yıllık hikaye, tek bir ateş",
+    "storyTitle": "Ateşin peşinden 40 yıl",
     "story": [
+      "1985, daha 12 yaşındayken babasının mutfağına girdi. 80'li yılların Fethiye'sinde, bakır tavalar ve odun ateşinin sesleri arasında büyüdü. İlk kavurmasını da o yıllarda karıştırdı.",
       "Mehmet Usta, 1994 yılında Fethiye'nin dar sokaklarında küçük bir kasap dükkanında başladı bu mesleğe. Kuzu eti seçmeyi babasından öğrendi; odunun dilini ise kendi kendine, yıllar içinde.",
       "Fethiye'nin o zamanki küçük sokaklarında, meşe odununun kokusu onu hep çekti. İlk tezgâhını kurduğunda sadece üç tabak çıkarıyordu; bugün her gün yüzlerce misafire aynı özeni gösteriyor.",
-      "Bugün, 30 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
-      "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 30 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
+      "Bugün, 40 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
+      "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 40 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
     ],
     "secretTitle": "Benim Sırrım",
     "secretSubtitle": "Ustanın 4 altın kuralı",

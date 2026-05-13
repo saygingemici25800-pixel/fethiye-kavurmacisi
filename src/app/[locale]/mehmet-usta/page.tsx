@@ -30,12 +30,7 @@ export default async function MehmetUstaPage({
   unstable_setRequestLocale(locale);
   const t = await getTranslations('mehmetUsta');
 
-  const storyParagraphs = [
-    t('story.0'),
-    t('story.1'),
-    t('story.2'),
-    t('story.3'),
-  ];
+  const storyParagraphs = t.raw('story') as string[];
 
   const secrets: Array<{
     key: 'meat' | 'oak' | 'patience' | 'copper';

@@ -79,6 +79,29 @@
       }
     }
   },
+  "tableEssentials": {
+    "eyebrow": "FOR YOUR HEALTH",
+    "title": "What's on the Table?",
+    "subtitle": "Traditional plate for your health",
+    "items": {
+      "ribs": {
+        "name": "Beef Ribs",
+        "desc": "6 hours wood-fired beef ribs"
+      },
+      "rice": {
+        "name": "Basmati Rice",
+        "desc": "Fluffy, light basmati rice pilaf"
+      },
+      "salad": {
+        "name": "Sumac Onion + Tomato Salad",
+        "desc": "Sumac-marinated onion, fresh tomato salad"
+      },
+      "bread": {
+        "name": "Lavash or Bread",
+        "desc": "Warm lavash or tandoor bread"
+      }
+    }
+  },
   "explore": {
     "title": "Discover more",
     "subtitle": "A journey into Fethiye Kavurmacısı's story",
@@ -125,13 +148,14 @@
   "mehmetUsta": {
     "heroEyebrow": "MASTER OF THE FIRE",
     "heroTitle": "Mehmet Usta",
-    "heroSubtitle": "A 30-year story around a single fire",
-    "storyTitle": "Thirty years chasing the flame",
+    "heroSubtitle": "A 40-year story around a single fire",
+    "storyTitle": "Forty years chasing the flame",
     "story": [
+      "In 1985, at just 12 years old, he stepped into his father's kitchen. He grew up in 1980s Fethiye, surrounded by copper pans and the sounds of wood fire. He stirred his first kavurma in those years.",
       "Mehmet Usta began this craft in 1994, in a small butcher's shop on a narrow Fethiye street. He learned to pick lamb from his father; the language of wood, he taught himself over the years.",
       "The smell of oak firewood pulled him in from day one. When he opened his first counter, he plated just three portions a day. Today, the same care goes into hundreds of plates.",
       "Every morning he still stands at the fire. Every confit plate leaves his hands, and nothing goes to the table until he has tasted it himself.",
-      "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 30 years of patience, passion and hospitality."
+      "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 40 years of patience, passion and hospitality."
     ],
     "secretTitle": "My secret",
     "secretSubtitle": "The chef's four golden rules",
