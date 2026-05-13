@@ -1,9 +1,9 @@
 {
   "meta": {
     "siteName": "Fethiye Kavurmacısı",
-    "tagline": "Fethiye's oldest lamb confit house",
-    "defaultTitle": "Fethiye Kavurmacısı | Best Lamb Kavurma in Fethiye",
-    "defaultDescription": "Authentic wood-fire lamb confit, crafted for 30 years by Mehmet Usta in the heart of Fethiye."
+    "tagline": "Fethiye's oldest beef confit house",
+    "defaultTitle": "Fethiye Kavurmacısı | Best Beef Kavurma in Fethiye",
+    "defaultDescription": "Authentic wood-fire beef confit, crafted for 30 years by Mehmet Usta in the heart of Fethiye."
   },
   "nav": {
     "home": "Home",
@@ -38,7 +38,7 @@
   "hero": {
     "subtitle": {
       "before": "",
-      "highlight": "Lamb confit",
+      "highlight": "Beef confit",
       "after": ". Wood fire. Copper pans. For 30 years."
     },
     "discover": "Discover",
@@ -62,12 +62,12 @@
     "soupsTitle": "Soups",
     "items": {
       "1": {
-        "name": "Lamb Confit",
-        "desc": "6 hours slow-cooked over wood fire in copper pan, special lamb confit"
+        "name": "Beef Confit",
+        "desc": "6 hours slow-cooked over wood fire in copper pan, special beef confit"
       },
       "2": {
         "name": "Tandır",
-        "desc": "Traditional clay-oven lamb, confit in its own fat"
+        "desc": "Traditional clay-oven beef, confit in its own fat"
       },
       "3": {
         "name": "Lamb Skewers",
@@ -138,7 +138,7 @@
     "hoursValue": "Monday - Saturday: 10:00 - 02:00 · Sunday: Closed"
   },
   "footer": {
-    "tagline": "Fethiye's oldest lamb confit house. The same wood fire, for 30 years.",
+    "tagline": "Fethiye's oldest beef confit house. The same wood fire, for 30 years.",
     "quickLinks": "Quick links",
     "contactTitle": "Contact",
     "hoursTitle": "Opening hours",
@@ -152,7 +152,7 @@
     "storyTitle": "Forty years chasing the flame",
     "story": [
       "In 1985, at just 12 years old, he stepped into his father's kitchen. He grew up in 1980s Fethiye, surrounded by copper pans and the sounds of wood fire. He stirred his first kavurma in those years.",
-      "Mehmet Usta began this craft in 1994, in a small butcher's shop on a narrow Fethiye street. He learned to pick lamb from his father; the language of wood, he taught himself over the years.",
+      "Mehmet Usta began this craft in 1994, in a small butcher's shop on a narrow Fethiye street. He learned to pick beef from his father; the language of wood, he taught himself over the years.",
       "The smell of oak firewood pulled him in from day one. When he opened his first counter, he plated just three portions a day. Today, the same care goes into hundreds of plates.",
       "Every morning he still stands at the fire. Every confit plate leaves his hands, and nothing goes to the table until he has tasted it himself.",
       "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 40 years of patience, passion and hospitality."
@@ -162,7 +162,7 @@
     "secrets": {
       "meat": {
         "title": "Choosing the meat",
-        "desc": "Only local, 6–8 month old lamb. Hand-picked every morning at the Fethiye butcher."
+        "desc": "Only local, fresh beef. Hand-picked every morning at the Fethiye butcher."
       },
       "oak": {
         "title": "Oak firewood",

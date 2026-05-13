@@ -4,10 +4,10 @@ export const MENU_ITEMS: MenuItem[] = [
   // ── Ana Yemekler ──────────────────────────────────────
   {
     id: 'kuzu-kavurma',
-    nameTR: 'Kuzu Kavurma',
-    nameEN: 'Lamb Kavurma',
-    descTR: '6 saat odun ateşinde, bakır tavada pişirilmiş özel kuzu kavurma',
-    descEN: '6 hours slow-cooked over wood fire in copper pan, special lamb confit',
+    nameTR: 'Dana Kavurma',
+    nameEN: 'Beef Kavurma',
+    descTR: '6 saat odun ateşinde, bakır tavada pişirilmiş özel dana kavurma',
+    descEN: '6 hours slow-cooked over wood fire in copper pan, special beef confit',
     price: 450,
     image: '/images/menu/kuzu-kavurma.jpg',
     featured: true,

@@ -54,13 +54,13 @@ export async function generateMetadata({
     keywords: [
       'fethiye kavurma',
       'fethiye restoran',
-      'fethiye kuzu kavurma',
-      'fethiye kuzu',
+      'fethiye dana kavurma',
+      'fethiye dana',
       'fethiye türk mutfağı',
       'best restaurant fethiye',
       'fethiye traditional food',
       'where to eat fethiye',
-      'fethiye lamb',
+      'fethiye beef',
       'mehmet usta',
     ],
     alternates: {

@@ -19,9 +19,9 @@ export const REVIEWS: Review[] = [
     id: 'r2',
     rating: 5,
     bodyTR:
-      "Fethiye'nin en iyi kebabı! Kuzu inanılmaz yumuşaktı ve servis de harikaydı. Kesinlikle tavsiye ederim.",
+      "Fethiye'nin en iyi kebabı! Dana inanılmaz yumuşaktı ve servis de harikaydı. Kesinlikle tavsiye ederim.",
     bodyEN:
-      'Best kebab in Fethiye! The lamb was incredibly tender and the service was wonderful. Highly recommended.',
+      'Best kebab in Fethiye! The beef was incredibly tender and the service was wonderful. Highly recommended.',
     author: 'Sarah M.',
     dateTR: '1 ay önce',
     dateEN: '1 month ago',
@@ -75,9 +75,9 @@ export const REVIEWS: Review[] = [
     id: 'r6',
     rating: 5,
     bodyTR:
-      'Gizli bir cevher! Tatilimiz boyunca 3 kez geldik. Özellikle kuzu kavurmayı şiddetle tavsiye ederim.',
+      'Gizli bir cevher! Tatilimiz boyunca 3 kez geldik. Özellikle dana kavurmayı şiddetle tavsiye ederim.',
     bodyEN:
-      'Hidden gem! We came 3 times during our holiday. Highly recommend the lamb confit.',
+      'Hidden gem! We came 3 times during our holiday. Highly recommend the beef confit.',
     author: 'Emma L.',
     dateTR: '3 hafta önce',
     dateEN: '3 weeks ago',

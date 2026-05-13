@@ -5,7 +5,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   {
     id: '1',
     src: '/images/menu/kuzu-kavurma.jpg',
-    alt: 'Kuzu kavurma servis',
+    alt: 'Dana kavurma servis',
     category: 'food',
     width: 1535,
     height: 1920,

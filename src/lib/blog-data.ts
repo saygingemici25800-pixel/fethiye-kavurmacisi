@@ -11,7 +11,7 @@ Kavurma, Anadolu mutfağının kilometre taşlarından biridir. Odunun rengi, et
 
 ### Meşe odunu neden önemli?
 
-Meşe, yavaş ve derin yanar. Kuzu etine bu derinliği bir başka odun veremez. Muğla'nın meşe ormanlarından gelen odunları özenle seçiyoruz.
+Meşe, yavaş ve derin yanar. Dana etine bu derinliği bir başka odun veremez. Muğla'nın meşe ormanlarından gelen odunları özenle seçiyoruz.
 
 ### Sabır, her şeyden önce
 
@@ -34,11 +34,11 @@ Fethiye'deysen, bir öğlen bize uğra. Sofra her zaman hazır.
 
 Every guest in Fethiye asks the same question: "Where is the real kavurma?" In this post you'll find notes from the chef's kitchen and a short guide for visitors.
 
-Kavurma is a cornerstone of Anatolian cuisine. The color of the wood, the age of the lamb, the duration of the fire — every detail is felt in the final bite.
+Kavurma is a cornerstone of Anatolian cuisine. The color of the wood, the age of the beef, the duration of the fire — every detail is felt in the final bite.
 
 ### Why oak matters
 
-Oak burns slowly and deeply. No other firewood gives lamb that depth. We carefully select our wood from Muğla's oak forests.
+Oak burns slowly and deeply. No other firewood gives beef that depth. We carefully select our wood from Muğla's oak forests.
 
 ### Patience, above all else
 
@@ -78,12 +78,12 @@ export const BLOG_POSTS: BlogPost[] = [
   },
   {
     slug: 'kavurma-vs-tandir',
-    titleTR: 'Kuzu Kavurma vs Tandır: Farkı Nedir?',
+    titleTR: 'Dana Kavurma vs Tandır: Farkı Nedir?',
     titleEN: 'Kavurma vs Tandır: What Is the Difference?',
     excerptTR:
-      'İkisi de kuzu, ikisi de ateşle pişer. Peki sofrada neden bu kadar farklı hissettirirler?',
+      'İkisi de dana, ikisi de ateşle pişer. Peki sofrada neden bu kadar farklı hissettirirler?',
     excerptEN:
-      'Both are lamb, both cooked with fire. Why do they feel so different on the plate?',
+      'Both are beef, both cooked with fire. Why do they feel so different on the plate?',
     categoryTR: 'Mutfak',
     categoryEN: 'Kitchen',
     date: '2025-05-30',

@@ -2,8 +2,8 @@
   "meta": {
     "siteName": "Fethiye Kavurmacısı",
     "tagline": "Fethiye'nin en eski kavurmacısı",
-    "defaultTitle": "Fethiye Kavurmacısı | Fethiye'nin En İyi Kuzu Kavurması",
-    "defaultDescription": "30 yıldır odun ateşinde pişen gerçek kuzu kavurma. Fethiye'de Mehmet Usta'nın mutfağından."
+    "defaultTitle": "Fethiye Kavurmacısı | Fethiye'nin En İyi Dana Kavurması",
+    "defaultDescription": "30 yıldır odun ateşinde pişen gerçek dana kavurma. Fethiye'de Mehmet Usta'nın mutfağından."
   },
   "nav": {
     "home": "Ana Sayfa",
@@ -38,7 +38,7 @@
   "hero": {
     "subtitle": {
       "before": "Odun ateşinde, bakır tavalarda, gerçek",
-      "highlight": "kuzu kavurma",
+      "highlight": "dana kavurma",
       "after": ""
     },
     "discover": "Beni Keşfet",
@@ -62,8 +62,8 @@
     "soupsTitle": "Çorbalar",
     "items": {
       "1": {
-        "name": "Kuzu Kavurma",
-        "desc": "6 saat odun ateşinde, bakır tavada pişirilmiş özel kuzu kavurma"
+        "name": "Dana Kavurma",
+        "desc": "6 saat odun ateşinde, bakır tavada pişirilmiş özel dana kavurma"
       },
       "2": {
         "name": "Tandır",
@@ -152,7 +152,7 @@
     "storyTitle": "Ateşin peşinden 40 yıl",
     "story": [
       "1985, daha 12 yaşındayken babasının mutfağına girdi. 80'li yılların Fethiye'sinde, bakır tavalar ve odun ateşinin sesleri arasında büyüdü. İlk kavurmasını da o yıllarda karıştırdı.",
-      "Mehmet Usta, 1994 yılında Fethiye'nin dar sokaklarında küçük bir kasap dükkanında başladı bu mesleğe. Kuzu eti seçmeyi babasından öğrendi; odunun dilini ise kendi kendine, yıllar içinde.",
+      "Mehmet Usta, 1994 yılında Fethiye'nin dar sokaklarında küçük bir kasap dükkanında başladı bu mesleğe. Dana eti seçmeyi babasından öğrendi; odunun dilini ise kendi kendine, yıllar içinde.",
       "Fethiye'nin o zamanki küçük sokaklarında, meşe odununun kokusu onu hep çekti. İlk tezgâhını kurduğunda sadece üç tabak çıkarıyordu; bugün her gün yüzlerce misafire aynı özeni gösteriyor.",
       "Bugün, 40 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
       "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 40 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
@@ -162,7 +162,7 @@
     "secrets": {
       "meat": {
         "title": "Et Seçimi",
-        "desc": "Sadece yerel, 6-8 aylık kuzu. Her sabah Fethiye mezbahasından özenle seçiyorum."
+        "desc": "Sadece yerel, taze dana. Her sabah Fethiye mezbahasından özenle seçiyorum."
       },
       "oak": {
         "title": "Meşe Odunu",

@@ -1,7 +1,7 @@
 export const SITE_CONFIG = {
   name: 'Fethiye Kavurmacısı',
-  description: "Fethiye'nin en iyi kuzu kavurması",
-  descriptionEN: 'Best lamb kavurma in Fethiye',
+  description: "Fethiye'nin en iyi dana kavurması",
+  descriptionEN: 'Best beef kavurma in Fethiye',
   url: 'https://fethiyekavurmacisi.com',
   phone: '+905317789060',
   phoneDisplay: '+90 531 778 90 60',
