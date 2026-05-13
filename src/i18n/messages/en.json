@@ -157,6 +157,28 @@
       "Every morning he still stands at the fire. Every confit plate leaves his hands, and nothing goes to the table until he has tasted it himself.",
       "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 40 years of patience, passion and hospitality."
     ],
+    "history": {
+      "eyebrow": "FROM PAST TO PRESENT",
+      "title": "A 40-Year Journey",
+      "subtitle": "Chasing the fire since 1985",
+      "items": {
+        "apprentice": {
+          "date": "1985",
+          "title": "Apprenticeship Years",
+          "desc": "12 years old, in his father's kitchen. The journey that began in Ödemiş with copper pans."
+        },
+        "master": {
+          "date": "2000s",
+          "title": "Becoming a Master",
+          "desc": "Over the years, he masterfully combined grill, köfte and traditional Turkish cuisine techniques."
+        },
+        "today": {
+          "date": "Today",
+          "title": "Fethiye Kavurmacısı",
+          "desc": "At his own grill in Fethiye, carrying 40 years of experience to every plate."
+        }
+      }
+    },
     "secretTitle": "My secret",
     "secretSubtitle": "The chef's four golden rules",
     "secrets": {

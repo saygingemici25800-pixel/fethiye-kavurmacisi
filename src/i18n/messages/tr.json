@@ -157,6 +157,28 @@
       "Bugün, 40 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
       "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 40 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
     ],
+    "history": {
+      "eyebrow": "GEÇMİŞTEN BUGÜNE",
+      "title": "40 Yıllık Yolculuk",
+      "subtitle": "1985'ten bugüne, ateşin peşinde",
+      "items": {
+        "apprentice": {
+          "date": "1985",
+          "title": "Çıraklık Yılları",
+          "desc": "12 yaşında babasının mutfağında. Ödemiş'te bakır tavalarla başlayan yolculuk."
+        },
+        "master": {
+          "date": "2000'ler",
+          "title": "Ustalaşmak",
+          "desc": "Yıllar içinde ızgara, köfte ve geleneksel Türk mutfağı tekniklerini ustalıkla birleştirdi."
+        },
+        "today": {
+          "date": "Bugün",
+          "title": "Fethiye Kavurmacısı",
+          "desc": "Fethiye'de kendi ocağında, 40 yılın birikimini her tabağa taşıyor."
+        }
+      }
+    },
     "secretTitle": "Benim Sırrım",
     "secretSubtitle": "Ustanın 4 altın kuralı",
     "secrets": {

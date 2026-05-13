@@ -50,6 +50,28 @@ export default async function MehmetUstaPage({
     { src: '/images/gallery/kavurma-yufka-hazirlik.jpg', alt: 'Yufka üzerinde kavurma hazırlığı' },
   ];
 
+  const historyItems: Array<{
+    key: 'apprentice' | 'master' | 'today';
+    src: string;
+    alt: string;
+  }> = [
+    {
+      key: 'apprentice',
+      src: '/images/mehmet-usta/genclik-1985.jpeg',
+      alt: 'Mehmet Usta gençlik yılları, 1985',
+    },
+    {
+      key: 'master',
+      src: '/images/mehmet-usta/koftede-usta.jpeg',
+      alt: 'Mehmet Usta ızgara başında köfte yaparken',
+    },
+    {
+      key: 'today',
+      src: '/images/mehmet-usta/buyuk-ocak.jpeg',
+      alt: "Mehmet Usta bugün, Fethiye Kavurmacısı ocağında",
+    },
+  ];
+
   return (
     <>
       {/* Hero */}
@@ -110,6 +132,46 @@ export default async function MehmetUstaPage({
               </div>
             </div>
           </div>
+        </div>
+      </Section>
+
+      {/* History timeline */}
+      <Section className="bg-gradient-to-b from-charcoal-dark to-charcoal">
+        <SectionHeader
+          eyebrow={t('history.eyebrow')}
+          title={t('history.title')}
+          subtitle={t('history.subtitle')}
+        />
+
+        <div className="grid gap-6 md:gap-8 grid-cols-1 md:grid-cols-3">
+          {historyItems.map(({ key, src, alt }) => (
+            <article
+              key={key}
+              className="group overflow-hidden rounded-2xl border border-flame/20 bg-charcoal-dark transition-transform duration-500 hover:scale-[1.03] hover:border-flame/50"
+            >
+              <div className="relative aspect-[3/4] overflow-hidden">
+                <Image
+                  src={src}
+                  alt={alt}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                  className="object-cover transition-transform duration-700 group-hover:scale-110"
+                />
+                <span className="absolute left-4 top-4 inline-flex items-center rounded-full bg-flame px-3 py-1 font-accent text-sm tracking-[0.15em] text-cream-light shadow-lg">
+                  {t(`history.items.${key}.date`)}
+                </span>
+                <div className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-charcoal-dark to-transparent" />
+              </div>
+              <div className="p-6">
+                <h3 className="font-heading text-xl text-cream-light">
+                  {t(`history.items.${key}.title`)}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-cream/70">
+                  {t(`history.items.${key}.desc`)}
+                </p>
+              </div>
+            </article>
+          ))}
         </div>
       </Section>
 
