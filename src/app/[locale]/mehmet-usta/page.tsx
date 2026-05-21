@@ -67,7 +67,7 @@ export default async function MehmetUstaPage({
     },
     {
       key: 'today',
-      src: '/images/mehmet-usta/buyuk-ocak.jpeg',
+      src: '/images/mehmet-usta/bugun-kavurmaci.png',
       alt: "Mehmet Usta bugün, Fethiye Kavurmacısı ocağında",
     },
   ];
