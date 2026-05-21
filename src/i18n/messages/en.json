@@ -148,34 +148,33 @@
   "mehmetUsta": {
     "heroEyebrow": "MASTER OF THE FIRE",
     "heroTitle": "Mehmet Usta",
-    "heroSubtitle": "A 40-year story around a single fire",
-    "storyTitle": "Forty years chasing the flame",
+    "heroSubtitle": "A 40-year fire that reaches from Ödemiş to Fethiye",
+    "storyTitle": "From Ödemiş to Fethiye, chasing the fire",
     "story": [
-      "In 1985, at just 12 years old, he stepped into his father's kitchen. He grew up in 1980s Fethiye, surrounded by copper pans and the sounds of wood fire. He stirred his first kavurma in those years.",
-      "Mehmet Usta began this craft in 1994, in a small butcher's shop on a narrow Fethiye street. He learned to pick beef from his father; the language of wood, he taught himself over the years.",
-      "The smell of oak firewood pulled him in from day one. When he opened his first counter, he plated just three portions a day. Today, the same care goes into hundreds of plates.",
-      "Every morning he still stands at the fire. Every confit plate leaves his hands, and nothing goes to the table until he has tasted it himself.",
-      "Fethiye Kavurmacısı isn't just a restaurant — it is the story of Mehmet Usta's 40 years of patience, passion and hospitality."
+      "Born in 1969 in the narrow streets of Ödemiş. The sound of copper pans, the scent of meat, and the wood fire were among his earliest memories. While still a child, he found himself in that small world behind the kitchen.",
+      "He grew up alongside the masters who made Ödemiş famous for its köfte. For years he never put down the copper pan placed in his hand; he learned from them the language of fire, the patience of meat, the memory of copper. \"A kavurma cannot exist without passing through a master's hands,\" his old teacher used to say — Mehmet carried these words with him ever since.",
+      "In 2005, he came to Fethiye. The warm Mediterranean wind did not soften the tradition he brought from Ödemiş; on the contrary, it added another layer of aroma to the kavurma in his copper pans. Here he built his own fire, set his own table.",
+      "Today, every plate at Fethiye Kavurmacısı carries the trace of a 40-year journey from Ödemiş to Fethiye. The fire is the same fire, the copper is the same copper, the patience is the same patience."
     ],
     "history": {
       "eyebrow": "FROM PAST TO PRESENT",
       "title": "A 40-Year Journey",
-      "subtitle": "Chasing the fire since 1985",
+      "subtitle": "From Ödemiş to Fethiye, chasing the fire",
       "items": {
         "apprentice": {
-          "date": "1985",
-          "title": "Apprenticeship Years",
-          "desc": "12 years old, in his father's kitchen. The journey that began in Ödemiş with copper pans."
+          "date": "1980s",
+          "title": "Apprenticeship in Ödemiş",
+          "desc": "He met the copper pan beside the köfte masters of Ödemiş. The language of fire and the patience of meat were learned here."
         },
         "master": {
-          "date": "2000s",
-          "title": "Becoming a Master",
-          "desc": "Over the years, he masterfully combined grill, köfte and traditional Turkish cuisine techniques."
+          "date": "2005",
+          "title": "Arrival in Fethiye",
+          "desc": "He brought the tradition from Ödemiş to meet the warm Mediterranean wind. He built his own fire here."
         },
         "today": {
           "date": "Today",
           "title": "Fethiye Kavurmacısı",
-          "desc": "At his own grill in Fethiye, carrying 40 years of experience to every plate."
+          "desc": "Carrying 40 years of craft to the fire each morning. Same fire, same copper, same patience."
         }
       }
     },

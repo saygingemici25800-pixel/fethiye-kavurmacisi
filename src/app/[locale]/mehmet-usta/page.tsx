@@ -58,7 +58,7 @@ export default async function MehmetUstaPage({
     {
       key: 'apprentice',
       src: '/images/mehmet-usta/genclik-1985.jpeg',
-      alt: 'Mehmet Usta gençlik yılları, 1985',
+      alt: 'Mehmet Usta gençlik yılları, Ödemiş',
     },
     {
       key: 'master',
@@ -125,9 +125,9 @@ export default async function MehmetUstaPage({
             </div>
             <div className="absolute -bottom-6 -right-6 hidden md:block">
               <div className="rounded-2xl border border-flame/30 bg-charcoal-dark/90 px-6 py-4 shadow-xl">
-                <p className="font-accent text-3xl text-flame">1994</p>
+                <p className="font-accent text-3xl text-flame">2005</p>
                 <p className="text-xs text-cream/60 uppercase tracking-wider">
-                  Başlangıç
+                  Fethiye&apos;ye Geliş
                 </p>
               </div>
             </div>

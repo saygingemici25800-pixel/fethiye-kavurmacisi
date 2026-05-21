@@ -148,34 +148,33 @@
   "mehmetUsta": {
     "heroEyebrow": "OCAĞIN USTASI",
     "heroTitle": "Mehmet Usta",
-    "heroSubtitle": "40 yıllık hikaye, tek bir ateş",
-    "storyTitle": "Ateşin peşinden 40 yıl",
+    "heroSubtitle": "Ödemiş'ten Fethiye'ye uzanan 40 yıllık bir ateş",
+    "storyTitle": "Ödemiş'ten Fethiye'ye, ateşin peşinde",
     "story": [
-      "1985, daha 12 yaşındayken babasının mutfağına girdi. 80'li yılların Fethiye'sinde, bakır tavalar ve odun ateşinin sesleri arasında büyüdü. İlk kavurmasını da o yıllarda karıştırdı.",
-      "Mehmet Usta, 1994 yılında Fethiye'nin dar sokaklarında küçük bir kasap dükkanında başladı bu mesleğe. Dana eti seçmeyi babasından öğrendi; odunun dilini ise kendi kendine, yıllar içinde.",
-      "Fethiye'nin o zamanki küçük sokaklarında, meşe odununun kokusu onu hep çekti. İlk tezgâhını kurduğunda sadece üç tabak çıkarıyordu; bugün her gün yüzlerce misafire aynı özeni gösteriyor.",
-      "Bugün, 40 yılı aşkın tecrübesiyle her sabah ocağın başına geçiyor. Her kavurma tabağı onun elinden çıkıyor, hiçbiri teslim edilmeden önce tatmadan masaya gitmiyor.",
-      "Fethiye Kavurmacısı sadece bir restoran değil; Mehmet Usta'nın 40 yıllık sabrının, tutkusunun ve misafirperverliğinin hikayesidir."
+      "1969'da Ödemiş'in dar sokaklarında doğdu. Bakır tavaların sesi, et kokusu ve odun ateşi onun ilk hatıralarındandı. Henüz çocuk yaştayken mutfağın arkasındaki o küçük dünyada buldu kendini.",
+      "Ödemiş'in köftesiyle ün salmış ustalarının yanında yetişti. Yıllarca eline tutuşturulan bakır tavayı bırakmadı; ateşin dilini, etin sabrını, bakırın hafızasını onlardan öğrendi. \"Bir kavurma, ustanın elinden geçmeden olmaz\" derdi yaşlı ustası — Mehmet bu sözü hep yanında taşıdı.",
+      "2005'te Fethiye'ye geldi. Akdeniz'in sıcak rüzgârı, Ödemiş'ten getirdiği geleneği yumuşatmadı; aksine, bakır tavalarındaki kavurmaya bir başka aroma kattı. Burada kendi ocağını kurdu, kendi sofrasını açtı.",
+      "Bugün Fethiye Kavurmacısı'nda her tabak, Ödemiş'ten Fethiye'ye uzanan 40 yıllık bir yolculuğun izini taşıyor. Ateş aynı ateş, bakır aynı bakır, sabır aynı sabır."
     ],
     "history": {
       "eyebrow": "GEÇMİŞTEN BUGÜNE",
       "title": "40 Yıllık Yolculuk",
-      "subtitle": "1985'ten bugüne, ateşin peşinde",
+      "subtitle": "Ödemiş'ten Fethiye'ye, ateşin peşinde",
       "items": {
         "apprentice": {
-          "date": "1985",
-          "title": "Çıraklık Yılları",
-          "desc": "12 yaşında babasının mutfağında. Ödemiş'te bakır tavalarla başlayan yolculuk."
+          "date": "1980'ler",
+          "title": "Ödemiş'te Çıraklık",
+          "desc": "Ödemiş'in köfteci ustalarının yanında bakır tavayla tanıştı. Ateşin dilini, etin sabrını burada öğrendi."
         },
         "master": {
-          "date": "2000'ler",
-          "title": "Ustalaşmak",
-          "desc": "Yıllar içinde ızgara, köfte ve geleneksel Türk mutfağı tekniklerini ustalıkla birleştirdi."
+          "date": "2005",
+          "title": "Fethiye'ye Geliş",
+          "desc": "Ödemiş'ten getirdiği geleneği Akdeniz'in sıcak rüzgârıyla buluşturdu. Kendi ocağını burada kurdu."
         },
         "today": {
           "date": "Bugün",
           "title": "Fethiye Kavurmacısı",
-          "desc": "Fethiye'de kendi ocağında, 40 yılın birikimini her tabağa taşıyor."
+          "desc": "40 yıllık birikimini her sabah ocağa taşıyor. Ateş aynı ateş, bakır aynı bakır, sabır aynı sabır."
         }
       }
     },
