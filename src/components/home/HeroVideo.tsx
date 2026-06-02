@@ -81,7 +81,7 @@ export default function HeroVideo() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.2 }}
-        className="absolute left-1/2 top-1/2 z-20 -translate-x-1/2 -translate-y-1/2 [filter:drop-shadow(0_15px_35px_rgba(0,0,0,0.5))]"
+        className="absolute left-1/2 top-1/2 z-20 -translate-x-1/2 -translate-y-1/2 [filter:drop-shadow(0_15px_35px_rgba(0,0,0,0.5))] px-4 max-w-[100vw]"
       >
         <GradientMenu />
       </motion.div>

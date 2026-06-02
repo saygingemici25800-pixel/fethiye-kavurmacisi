@@ -70,7 +70,7 @@ export default function GradientMenu() {
   const pathname = usePathname();
 
   return (
-    <ul className="flex items-center gap-3">
+    <ul className="flex items-center gap-2 md:gap-3">
       {menuItems.map(({ title, titleEn, href, icon, gradientFrom, gradientTo }) => {
         const fullHref = `/${locale}${href}`;
         const active = pathname === fullHref || pathname.startsWith(`${fullHref}/`);
@@ -84,8 +84,8 @@ export default function GradientMenu() {
               } as React.CSSProperties
             }
             className={cn(
-              'group relative h-[46px] w-[46px] rounded-full bg-white/95 shadow-lg transition-all duration-500 hover:w-[150px] hover:shadow-none',
-              active && 'w-[150px] shadow-none',
+              'group relative h-[38px] w-[38px] md:h-[46px] md:w-[46px] rounded-full bg-white/95 shadow-lg transition-all duration-500 hover:w-[110px] md:hover:w-[150px] hover:shadow-none',
+              active && 'w-[110px] md:w-[150px] shadow-none',
             )}
           >
             <Link
@@ -117,7 +117,7 @@ export default function GradientMenu() {
               </span>
               <span
                 className={cn(
-                  'absolute text-xs font-semibold uppercase tracking-wide text-white transition-transform duration-500 scale-0 group-hover:scale-100',
+                  'absolute text-xs md:text-sm font-semibold uppercase tracking-wide text-white transition-transform duration-500 scale-0 group-hover:scale-100',
                   'delay-0 group-hover:delay-150',
                   active && 'scale-100 delay-150',
                 )}
